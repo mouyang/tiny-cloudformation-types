@@ -1,0 +1,11 @@
+{
+  "name": "tinytype-lambda",
+  "version": "0.0.0",
+  "description": "Save a few keystrokes in CloudFormation template by expanding suffixed types into fully-qualified types.",
+  "main": "tinytype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
